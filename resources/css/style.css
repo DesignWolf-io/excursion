@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100%;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 3.1em;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 2.5em;
+}
+
+.excursion-dl {
+  color: aquamarine;
+  font: 1rem;
+}
+
+article > p {
+  color: gray;
+  font-size: 1.5em;
+}
+
+footer > p {
+  text-align: right;
+  color: gray;
+  font-weight: 600;
+}
